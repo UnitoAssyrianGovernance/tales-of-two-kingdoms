@@ -1,0 +1,1135 @@
+---
+title: "A Tale of Two Kingdoms"
+subtitle: "The impact of the Assyrian Empire on Judah and Israel"
+date: 2024-12-13
+date-format: "DD MMMM YYYY"
+location: "Workshop - Turin"
+event: "The Geography of Large-Scale State Policies on Physical and Cultural Landscapes in Western Asia"
+authors:
+  - name: "Andrea Titolo"
+    url: "https://andreatitolo.com"
+    orcid: "0000-0002-7322-8634"
+    affiliation:
+      - University of Turin
+  - name: "Alessio Palmisano"
+    url: "https://www.dipstudistorici.unito.it/do/docenti.pl/Show?_id=apalmisa"
+    orcid: "0000-0003-0758-5032"
+    affiliation:
+      - University of Turin
+title-slide-attributes:
+  data-background-image: img/background_logo.webp
+format:
+  revealjs:
+      slide-number: true
+      progress: false
+      preview-links: true
+      theme: [default, scss/style.scss]
+      width: 1600
+      height: 900
+      transition: fade
+      citeproc: true
+      citations-hover: true
+      bibliography: bib/references.bib
+      csl: bib/journal-of-archaeological-research.csl
+      link-external-icon: false
+      link-external-newwindow: true
+      embed-resources: false
+      multiplex: false
+      pdf-separate-fragments: true
+      tbl-cap-location: bottom
+      template-partials:
+        - templates/title-slide.html
+---
+
+# Introduction
+
+::: {.absolute top="0" left="95%"}
+::: sectionhead
+1 [2 3 4]{style="opacity:0.25"}
+:::
+:::
+
+---
+
+## Talk Overview
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+1 [2 3 4]{style="opacity:0.25"}
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="50%"}
+- Introduction to Iron Age Settlements Dynamics
+  - The South Levant in the Iron Age
+- Data and Methods
+  - Project Introduction
+  - Archaeological Data and their problems
+- Results and Discussion
+  - Centralization vs Fragmentation
+  - Archaeodemographic Curves
+  - Spatial Distribution
+- Conclusions and Future Persectives
+:::
+
+::: {.column width="50%"}
+
+<br>
+
+![Scan and follow the presentation online!](img/qr_code.webp){fig-align="center"}
+:::
+
+:::
+
+---
+
+
+## Iron Age Settlement Dynamics
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+1 [2 3 4]{style="opacity:0.25"}
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="40%"}
+::: {.fragment fragment-index=1 .fade-in-then-semi-out}
+- _The Great Dispersal_
+- _Landscape Infilling_
+- Tells vs Flat sites
+- Long-term trends
+:::
+
+::: {.fragment fragment-index=3 .fade-in-then-semi-out}
+- Different dynamics to the West?
+:::
+
+::: {.fragment fragment-index=4 .fade-in-then-semi-out}
+- Overall trend towards centralization
+:::
+
+::: {.fragment fragment-index=5}
+- What happens in South Levant?
+:::
+
+:::
+
+::: {.column width="50%"}
+
+:::
+
+:::
+
+::: {.fragment fragment-index=1 .fade-in-then-out}
+![](img/ia_patterns_survey_comparisons.webp){.absolute right="5%" top="15%" width="50%"}
+:::
+
+::: {.fragment fragment-index=2 .fade-in-then-out}
+![](img/ia_patterns_wilkinson2004_njs_eba.webp){.absolute right="38%" top="15%" width="35%"}
+![](img/ia_patterns_wilkinson2004_njs_ia.webp){.absolute right="38%" top="50%" width="35%"}
+![](img/ia_patterns_wilkinson2004_tbs_eba_ia.webp){.absolute right="0%" top="15%" width="35%"}
+![](img/ia_patterns_esempio_morandi.webp){.absolute right="0%" top="50%" width="35%"}
+:::
+
+::: {.fragment fragment-index=3 .fade-in-then-out}
+![](img/ia_patterns_casana2007_amuq_sites.webp){.absolute right="0%" top="55%" width="35%"}
+![](img/ia_patterns_wilkinson_carchemish_num_sites.webp){.absolute right="0%" top="10%" width="35%"}
+:::
+
+::: {.fragment fragment-index=4}
+![](img/ia_patterns_esempio_morandi_habur_rs.webp){.absolute right="5%" top="10%" width="30%"}
+![](img/ia_patterns_wilk_rank_size.webp){.absolute right="35%" top="10%" width="25%"}
+![](img/ia_patterns_esempio_morandi_habur.webp){.absolute right="0%" top="55%" width="30%"}
+:::
+
+::: {.fragment fragment-index=4 .fade-in-then-out}
+![](img/ia_patterns_esempio_wilk_njs.webp){.absolute right="35%" top="60%" width="35%"}
+:::
+
+---
+
+## South Levant in the Iron Age II
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+1 [2 3 4]{style="opacity:0.25"}
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="40%"}
+- After formative period, indipendent kingdoms of Israel, Judah, Ammon, Moab, Edom, and Aram-Damascus
+- Phoenician City-states
+
+::: {.body-smaller}
+
+| Arch. Periodization  | Dating (BC)   |
+|-------------- | -------------- |
+| Iron Age I    | 1150-950     |
+| Iron Age IIa    | 950-780     |
+| Iron Age IIb    | 780-680     |
+| Iron Age IIc    | 680-586     |
+| Iron Age III   | 539-333     |
+: After @Palmisano.etal2019; @Sharon2013
+
+:::
+
+:::
+
+::: {.column width="60%"}
+![After @Liverani2003](img/south_levant_ia2.webp){fig-align="center" width="95%"}
+:::
+
+:::
+
+---
+
+## South Levant in the Iron Age II
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+1 [2 3 4]{style="opacity:0.25"}
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="40%"}
+
+
+- [After formative period, indipendent kingdoms of Israel, Judah, Ammon, Moab, Edom, and Aram-Damascus]{style="opacity:0.25"}
+- [Phoenician City-states]{style="opacity:0.25"}
+
+- Assyrian conquest in 720 BC
+- Provinces and Client States
+
+::: {.body-smaller}
+
+| Arch. Periodization  | Dating (BC)   |
+|-------------- | -------------- |
+| Iron Age I    | 1150-950     |
+| Iron Age IIa    | 950-780     |
+| Iron Age IIb    | 780-680     |
+| Iron Age IIc    | 680-586     |
+| Iron Age III   | 539-333     |
+: After @Palmisano.etal2019; @Sharon2013
+
+:::
+
+
+:::
+
+::: {.column width="60%"}
+![](img/south_levant_ia2_assyria.webp){fig-align="center" width="95%"}
+:::
+
+:::
+
+---
+
+## Current interpretations of Settlement Dynamics
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+1 [2 3 4]{style="opacity:0.25"}
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="45%"}
+- Stability and prosperity for the area thanks to Assyrian presence [e.g. @Fales2008; @Finkelstein.SingerAvitz2001; @Frahm2006; @Gitin1995; @Kuhrt1995; @Stern2001]
+:::
+
+::: {.column width="50%"}
+::: {.fragment fragment-index=1}
+- Devastation and underdevelopment in assyrian provinces, prosperity in the client states [e.g. @Faust.Weiss2005; @Faust2021; @Stager1996]
+:::
+:::
+
+:::
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+<br>
+
+::: {.fragment fragment-index=2}
+- Assyrian imperial strategies were nuanced and varied from region to region, with some similarities [@MorandiBonacossi2018; @Duering2018; @Duering2020; @Macginnis.etal2016; @Parker2020]
+:::
+:::
+
+::: {.column width="50%"}
+
+:::
+
+:::
+
+::: {.fragment fragment-index=2}
+![](img/network_model_parker.webp){.absolute right="5%" top="35%" width="38%"}
+:::
+
+---
+
+## Research Questions
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+1 [2 3 4]{style="opacity:0.25"}
+:::
+:::
+
+- How is demography impacted by the Assyrian invasion and subsequent administration?
+- How are settlement systems impacted by imperial practices and long-term settlement dynamics?
+- Can a holistic and long-term approach provide more insight on the settlement history of the regions?
+
+
+
+# Data and Methods
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1]{style="opacity:0.25"} 2 [3 4]{style="opacity:0.25"}
+:::
+:::
+
+---
+
+
+
+## The Project
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1]{style="opacity:0.25"} 2 [3 4]{style="opacity:0.25"}
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="45%"}
+- [Governance policies and political strategies in the Southern Levant during the Neo-Assyrian Empire](https://www.dipstudistorici.unito.it/do/progetti.pl/Show?_id=0sk8)
+- 2 years
+- Funded by the Gerda Henkel Foundation
+- Univerisity of Turin (Departments of Historical Studies)
+- Collaboration with LMU Munich (Department of Ancient History)
+
+:::
+
+::: {.column width="50%"}
+
+:::
+
+:::
+
+![](img/study_areas.webp){.absolute right="0%" top="15%" width="50%"}
+![](img/gerda-henkel-logo.webp){.absolute right="0%" top="85%" width="25%"}
+![](img/logo-unito.webp){.absolute right="24%" top="76%" width="15%"}
+![](img/lmu_logo.webp){.absolute right="40%" top="83%" width="15%"}
+![](img/radner.webp){.absolute left="5%" top="75%" width="12%"}
+![](img/novotny.webp){.absolute left="25%" top="75%" width="12%"}
+
+
+---
+
+## The Project - Aims
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1]{style="opacity:0.25"} 2 [3 4]{style="opacity:0.25"}
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="45%"}
+- Analyze population and settlement patterns in South Levant to investigate Assyrian imperial strategies
+- **Samaria and Judah** (often contrasted as examples of the Assyrian empire's destructive role)
+- Holistic approach that integrates archaeological, textual, and geographic data into a spatial framework
+- Long-term analysis: Chalcolithic (4500 B.C.) - Byzantine (638 A.D.)
+:::
+
+::: {.column width="50%"}
+
+:::
+
+:::
+
+![](img/study_areas_selected.webp){.absolute right="0%" top="15%" width="50%"}
+![](img/gerda-henkel-logo.webp){.absolute right="0%" top="85%" width="25%"}
+![](img/logo-unito.webp){.absolute right="24%" top="76%" width="15%"}
+![](img/lmu_logo.webp){.absolute right="40%" top="83%" width="15%"}
+
+---
+
+## Archaeological Data
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1]{style="opacity:0.25"} 2 [3 4]{style="opacity:0.25"}
+:::
+:::
+
+::: {.columns .body-small}
+
+::: {.column width="50%"}
+- Settlement location, size and periodization (Chalcolitic to Byzantine)
+  - Samaria Survey [@Finkelstein.etal1997]
+  - Massasseh Hill Survey [@Bar.Zertal2021;@Bar.Zertal2022;@Zertal2004;@Zertal2007;@Zertal.Bar2017;@Zertal.Bar2019;@Zertal.Mirkam2016]
+  - Archaeological Survey of Israel [e.g. @Kloner2000]
+  - West Bank Database [@KeinanSchoonbaert2016; @KeinanSchoonbaert2018]
+- Refinement
+  - Excavation reports
+  - Demographic studies [e.g @Broshi1979; @Broshi.Finkelstein1992; @Broshi.Gophna1984; @Broshi.Gophna1986]
+:::
+
+::: {.column width="50%"}
+
+![](img/sites_distribution_buffer_dem.webp)
+
+:::
+
+:::
+
+---
+
+## Archaeological Data
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1]{style="opacity:0.25"} 2 [3 4]{style="opacity:0.25"}
+:::
+:::
+
+::: {.columns .body-small}
+
+::: {.column width="50%"}
+- **5530** Total Sites (From Chalcolithic to Byzantine)
+- **14037** Site Phases
+- From
+  - Samaria Survey - **516**
+  - Massasseh Hill Survey - **1368**
+  - Archaeological Survey of Israel - **2848**
+  - West Bank Database - **798**
+:::
+
+::: {.column width="50%"}
+
+![](img/sites_distribution_buffer_dem.webp)
+
+:::
+
+:::
+
+---
+
+## Archaeological Data - Pitfalls
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1]{style="opacity:0.25"} 2 [3 4]{style="opacity:0.25"}
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="50%"}
+- Chronological precision
+  - Subdivisions for Iron Age not always available
+  - Event-based dating
+
+::: {.incremental}
+- Chronological mismatch between older and newer surveys
+- Overlapping surveys and data and missing areas
+- Size not always available either for all periods or for specific periods
+- Different nature of databases
+:::
+:::
+
+::: {.column width="50%"}
+
+![](img/sites_distribution_buffer_dem.webp)
+
+:::
+
+:::
+
+---
+
+## Radiocarbon Data
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1]{style="opacity:0.25"} 2 [3 4]{style="opacity:0.25"}
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="50%"}
+- **1378** Dates
+- Main Dataset
+  - [NERD](https://openarchaeologydata.metajnl.com/articles/10.5334/joad.90) Database [@Palmisano.etal2022] - **1250 Dates**
+- Refinement
+  - [XRONOS](https://xronos.ch) Database - **178 Dates**
+:::
+
+::: {.column width="50%"}
+![](img/radiocarbon_distribution.webp){fig-align="center"}
+:::
+
+:::
+
+---
+
+## Processing
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1]{style="opacity:0.25"} 2 [3 4]{style="opacity:0.25"}
+:::
+:::
+
+- Geospatial database in QGIS, R scripts
+- Chronological harmonization and selection of evidence of ancient occupation (settlements) only
+
+![](img/db_interface.webp){.absolute right="17%" top="35%" width="68%"}
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.fragment fragment-index=1}
+::: {.absolute top="30%" left="2%" width="1550"}
+::: {.whitebox-cover}
+:::
+:::
+:::
+
+::: {.fragment fragment-index=1}
+- Long-term fluctuation of population estimates, **Summed Probability Distribution** of radiocarbon dates, **Aoristic** Approaches and **Randomization** for archaeological data [@Palmisano.etal2017; @Palmisano.etal2019]
+
+::: {.fragment fragment-index=2}
+- Statistically-tested **Ranks-Size** analysis for inferring centralization patterns [@Savage1997; @Falconer.Savage1995; @Palmisano2017; @Stoddart.etal2020]
+:::
+
+:::
+:::
+
+::: {.column width="50%"}
+
+::: {.fragment fragment-index=1 .fade-in-then-out}
+![Example of Aoristic sum [@Palmisano2023]](img/aoristic_sum_weight_palmisanoetal2017.webp)
+:::
+
+:::
+
+:::
+
+::: {.fragment fragment-index=2}
+![](img/rank_size_example_crema2013.webp){.absolute right="9%" top="33%" width="40%"}
+
+::: {.absolute top="87%" right="1%" width="650"}
+[Types of Rank-Size curves [@Crema2013]]{style="font-size: 0.7em"}
+:::
+
+:::
+
+# Results
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+---
+
+## Rank-size {visibility="hidden"}
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+::: {.columns}
+
+
+::: {.column width="50%"}
+- Overall Picture:
+  - Progressive trend towards centralization in the Iron Age IIb-c
+- Informative, but overlapping information
+:::
+
+::: {.column width="50%"}
+![](img/rank_size_all_areas.webp){fig-align=center}
+:::
+
+:::
+
+---
+
+## Rank-size
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+
+
+Regional trends highlight differences between Samaria and Judah
+
+![](img/geographical_location_large.webp){fig-align="center" width="68%"}
+
+::: {.fragment fragment-index=1}
+::: {.absolute top="18%" left="2%" width="1550"}
+::: {.whitebox-cover-high}
+:::
+:::
+:::
+
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.fragment fragment-index=1}
+![](img/rank_size_samaria.webp){.absolute left="0%" top="18%" width="47%"}
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.fragment fragment-index=1}
+![](img/rank_size_judah.webp){.absolute right="0%" top="18%" width="47%"}
+:::
+
+:::
+
+:::
+
+::: {.fragment fragment-index=2}
+::: {.absolute top="48%" left="-1%" width="1650"}
+::: {.redbox-big}
+:::
+:::
+:::
+
+---
+
+## Rank-size - Samaria
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+- No strong centralization in IA IIa (950-780)
+- Process towards a pronounced centralization already in IA IIb (780-680 BC)
+- Birth and rise of Samaria as capital (IA IIa/b) and then provincial centre (IA IIb/c)
+- Less sites in IA IIc (680-586 BC) but more primate curve
+- Probably a result of Assyrian administration
+- This pattern lingers until Iron Age III (539-333 BC)
+
+:::
+
+::: {.column width="50%"}
+![](img/rank_size_samaria.webp)
+:::
+
+:::
+
+---
+
+## Rank-size - Judah
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="50%"}
+- No strong centralization in IA IIa (950-780)
+- Zipfian-like distributioun in Iron Age IIb (780-680 BC) ("formative" stages of Jerusalem)
+- Centralization clearly evident in Iron Age IIc (680-586 BC)
+- Less sites in general for IA subphases
+:::
+
+::: {.column width="50%"}
+![](img/rank_size_judah.webp)
+:::
+
+:::
+
+---
+
+## Reoccupations
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+- Reoccupation trends are not as informative
+- The strong continuity might just be a void in the documentation for Iron Age IIc
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+![Samaria](img/reoccupations_samaria.webp){fig-align="center"}
+
+
+:::
+
+::: {.column width="50%"}
+
+![Judah](img/reoccupations_judah.webp){fig-align="center"}
+:::
+
+:::
+
+---
+
+## Reoccupations
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="40%"}
+- Spatial distribution of IA IIa-b sites
+  - Strong continuation of occupation in the north, new foundation in southern samaria and southern judah
+:::
+
+::: {.column width="60%"}
+![](img/reoccupations_ia2a_ia2b.webp){.absolute right="0%" top="10%" width="57%"}
+:::
+
+:::
+
+::: {.aside-right}
+NB: Only sites surely dated to each IA subperiod are shown on the map
+:::
+
+---
+
+## Reoccupations
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="40%"}
+- Spatial Distribution of  "abandoned" IA IIc (680-586 BC) sites might indicate issues of sites chronological attribution
+
+::: {.fragment fragment-index=1}
+- Or, chronological period including fall of Neo-Assyrian empire
+
+::: {.fragment fragment-index=2}
+- General tendency of assigning IA II pottery to early phases
+- Abandonment almost exactly correspond to specific surveys
+:::
+
+:::
+
+::: {.fragment fragment-index=3}
+- A different picture if we take into consideration all general IA II sites
+- Issues with Judah and Iron Age IIc
+:::
+
+:::
+
+::: {.column width="60%"}
+![](img/reoccupations_ia2b_ia2c.webp){.absolute right="0%" top="10%" width="57%"}
+:::
+
+:::
+
+::: {.aside-right}
+NB: Only sites surely dated to each IA subperiod are shown on the map
+:::
+
+::: {.fragment fragment-index=3}
+![](img/reoccupations_ia1_ia2.webp){.absolute right="0%" top="10%" width="57%"}
+:::
+
+---
+
+## Radiocarbon Summed Probability Distribution (SPD)
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="40%"}
+- Long term analysis of radiocarbon dates show demographic fluctuations (estimates)
+- Comparison with exponential model: statistically significant increase in the transition between LB/IA I (1300-1150 BC) and IA I/IIa (1150-780 BC)
+- Gradual decline but artificial drop for later periods
+:::
+
+::: {.column width="60%"}
+![](img/spd_comparison_exponential7-2k_intersect.webp){fig-align="center"}
+
+:::
+
+:::
+
+
+
+---
+
+## Radiocarbon Summed Probability Distribution (SPD)
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="40%"}
+
+- Permutation Plot of radiocarbon dates
+- **Systematic and quantitative** method to compare regional divergences in demographic fluctuations [@Crema.etal2016]
+
+::: {.fragment}
+- **No significant differences** in Iron Age
+- Curves follow more or less the same pattern
+- Minor differences in the LBA
+:::
+
+:::
+
+::: {.column width="60%"}
+![](img/permutation_plot7-2k_intersect.webp){fig-align="center"}
+:::
+
+:::
+
+---
+
+## Multi-proxy approaches
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="45%"}
+- Archaeodemographic Proxies highlight **similar patterns** regarding population
+- **Small differences** in the timing of the pop. increase (slightly earlier and more significant in Samaria)
+- **Judah**: gradual growth up to the IBA and minor fluctuations in MBA II-III
+  - Larger growth in Iron Age appears slightly later than in Samaria (3100 BP)
+- **Samaria**: major peaks, higher growth from ca. (3200 BP)
+  - Larger sites in general
+:::
+
+::: {.column width="55%"}
+![](img/archaeodemographic_proxies_sam_jud.webp){fig-align="center"}
+:::
+
+:::
+
+---
+
+
+## Multi-scalar approaches - Samaria and Jerusalem
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+- Smaller settlements filling up spaces between IA I medium-sized sites
+- Samaria rising as the major center in the area
+
+::: {.columns}
+
+::: {.column width="50%"}
+![Samaria - IA I](img/samaria_ia1.webp)
+:::
+
+::: {.column width="50%"}
+![Samaria - IA II](img/samaria_ia2.webp)
+:::
+
+:::
+
+---
+
+## Multi-scalar approaches - Samaria and Jerusalem
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+- Modern city prevented evaluation of immediate surroundings of ancient town
+- Structure of small and medium-sized settlements
+
+::: {.columns}
+
+::: {.column width="50%"}
+![Jerusalem - IA I](img/jerusalem_ia1.webp)
+:::
+
+::: {.column width="50%"}
+![Jerusalem - IA II](img/jerusalem_ia2.webp)
+:::
+
+:::
+
+---
+
+## Discussion - Iron Age II in context
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="50%"}
+- **Samaria**: Restructuring of settlement system in Samaria at the expenses of larger sites [@Squitieri2024]
+  - Probably, ruralization aimed in part at agricultural output to support the assyrian army [@Bagg2017; @Novotny2023; @Radner2008; @Sergi2023]
+  - "Islands of control" known from other provinces [e.g. @Parker2001] and nearby areas [e.g. the coast - @Thareani2016a]
+- **Judah**: settlement system extension, urbanization and centralization in a later period [@Bienkowski2022; @Mashiach.Davidovich2023]
+:::
+
+::: {.column width="50%"}
+![After @Squitieri2024](img/assyrian_control_squitieri2024.webp){fig-align="center" width="70%"}
+:::
+
+:::
+
+---
+
+## Discussion
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="50%"}
+- Trends that appears to be confirmed by archaeo-demographic proxies
+
+::: {.fragment fragment-index=1}
+  - Our results resemble previously identified supra-regional patterns [@Palmisano.etal2019; @Palmisano.etal2021]
+:::
+
+::: {.fragment fragment-index=2 .incremental}
+  - **Very similar demographic curves** and fluctuations for Samaria and Judah
+    - If deep settlement system difference, the two curves would have been divergent, or profoundly different
+    - Settlement system restructuring/ruralization (Samaria) and later centralization (Judah) evident from the rank-size curves
+:::
+
+:::
+
+::: {.column width="50%"}
+:::
+
+:::
+
+![](img/archaeodemographic_proxies_sam_jud.webp){.absolute right="0%" top="10%" width="50%"}
+
+::: {.fragment fragment-index=1}
+::: {.absolute top="20%" right="0%" width="800"}
+::: {.whitebox-cover}
+:::
+:::
+:::
+
+::: {.fragment fragment-index=1}
+![](img/curve_levant_palmisanoetal2021.webp){.absolute right="0%" top="10%" width="50%"}
+:::
+
+::: {.fragment fragment-index=1}
+::: {.absolute top="47%" right="0%" width="770"}
+[Archaeodemographic proxies for Southern Levant [@Palmisano.etal2021]]{style="font-size:0.6em"}
+:::
+:::
+
+::: {.fragment fragment-index=2}
+![](img/permutation_plot7-2k_intersect.webp){.absolute right="0%" top="10%" width="50%"}
+:::
+
+
+---
+
+## Discussion
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1 2]{style="opacity:0.25"} 3 [4]{style="opacity:0.25"}
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="45%"}
+- Although similar trajectories, **not necessarily similar causes**, as evidenced by the rank-size
+- Regional dynamics must be carefully assessed (complex and nuanced phenomena)
+- Ruralisation typical of the Iron Age [@Squitieri2024; @Wilkinson2003]
+- But not always to the detriment of the entire pre-existing settlement system [@Bienkowski2022; @Mashiach.Davidovich2023; @Porter.etal2014; @Routledge2004]
+
+:::
+
+::: {.column width="50%"}
+
+:::
+
+:::
+
+![](img/rank_size_samaria_ia.webp){.absolute right="0%" top="8%" width="52%"}
+
+![](img/rank_size_judah_ia.webp){.absolute right="0%" top="52%" width="52%"}
+
+::: {.absolute top="38%" right="0%" width="810"}
+[Samaria]{style="font-size:0.6em; text-align:center"}
+:::
+
+::: {.absolute top="82%" right="0%" width="810"}
+[Judah]{style="font-size:0.6em; text-align:center"}
+:::
+
+
+# Conclusions
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1 2 3]{style="opacity:0.25"} 4
+:::
+:::
+
+---
+
+## Conclusions
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1 2 3]{style="opacity:0.25"} 4
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="50%"}
+- Generally, an IA-like trend of settlement dispersal and centralization is visible in both regions
+
+::: {.fragment fragment-index=1}
+- However, regional differences
+  - Samaria seems to attain a primate curve (centralization) earlier (IA IIb) than Judah (IA IIc)
+  - Possibly an effect of the integration inside the assyirian provincial administration
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.fragment fragment-index=2}
+- Demographic trends do not show significant differences between the two regions
+  - The concept of two separate trajectories based on destruction and flourish **cannot be supported**
+:::
+
+::: {.fragment fragment-index=3}
+- Chronological issues prevents (for now) a deeper evaluation of IA IIc, especially from a spatial standpoint
+:::
+
+:::
+
+:::
+
+---
+
+## Future perspectives
+
+::: {.absolute top="0" left="95%"}
+::: {.sectionhead}
+[1 2 3]{style="opacity:0.25"} 4
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="48%"}
+- Systematic integration of historical sources [ARMEP - @Novotny.Radner2018]
+- Publication of the dataset and analyses in the respective online repositories
+
+<br>
+
+![](img/armep.webp){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](img/data_management.webp){fig-align="center" width="70%"}
+:::
+
+:::
+
+# Thank you for your attention! {background-image="img/background.webp" background-opacity="15%" style="text-align:center"}
+
+<br>
+
+Andrea Titolo ([andrea.titolo@unito.it](mailto:andrea.titolo@unito.it)) - {{< ai orcid >}} [0000-0002-7322-8634](https://orcid.org/0000-0002-7322-8634)
+
+Alessio Palmisano ([alessio.palmisano@unito.it](mailto:alessio.palmisano@unito.it)) - {{< ai orcid >}}
+[0000-0003-0758-5032](https://orcid.org/0000-0003-0758-5032)
+
+<br>
+
+
+![](img/qr_code.webp)
+<br>
+Presentation online at the qrcode above or at the following [link](https://www.andreatitolo.com/talks/2024-12-13-unito-empires-workshop/titolo_palmisano_tale_of_two_kingdoms.html)
+
+<br>
+
+ {{< ai zenodo >}} [https://doi.org/10.5281/zenodo.12011486](https://doi.org/10.5281/zenodo.12011486)
+
+ {{< bi github >}} [Slides Source Code](https://github.com/UnitoAssyrianGovernance/evoa-2024) - [CC BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+# Bibliography
