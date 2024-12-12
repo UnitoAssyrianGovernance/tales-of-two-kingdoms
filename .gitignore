@@ -94,3 +94,4 @@ rsconnect/
 .quarto
 
 /.quarto/
+*-speaker.html
