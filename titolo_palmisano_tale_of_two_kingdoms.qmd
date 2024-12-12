@@ -243,13 +243,24 @@ format:
 ::: {.columns}
 
 ::: {.column width="45%"}
+::: {.fragment fragment-index=1 .fade-in-then-semi-out}
 - Stability and prosperity for the area thanks to Assyrian presence [e.g. @Fales2008; @Finkelstein.SingerAvitz2001; @Frahm2006; @Gitin1995; @Kuhrt1995; @Stern2001]
 :::
 
+::: {.fragment fragment-index=1 .fade-in-then-out}
+![](img/anakin.webp){.absolute left="5%" top="45%" width="40%"}
+:::
+
+:::
+
 ::: {.column width="50%"}
-::: {.fragment fragment-index=1}
+::: {.fragment fragment-index=2 .fade-in-then-semi-out}
 - Devastation and underdevelopment in assyrian provinces, prosperity in the client states [e.g. @Faust.Weiss2005; @Faust2021; @Stager1996]
 :::
+:::
+
+::: {.fragment fragment-index=2 .fade-in-then-out}
+![](img/sw.webp){.absolute right="7%" top="45%" width="42%"}
 :::
 
 :::
@@ -260,7 +271,7 @@ format:
 
 <br>
 
-::: {.fragment fragment-index=2}
+::: {.fragment fragment-index=3}
 - Assyrian imperial strategies were nuanced and varied from region to region, with some similarities [@MorandiBonacossi2018; @Duering2018; @Duering2020; @Macginnis.etal2016; @Parker2020]
 :::
 :::
@@ -271,7 +282,7 @@ format:
 
 :::
 
-::: {.fragment fragment-index=2}
+::: {.fragment fragment-index=3}
 ![](img/network_model_parker.webp){.absolute right="5%" top="35%" width="38%"}
 :::
 
@@ -576,7 +587,7 @@ format:
 
 ---
 
-## Rank-size
+## Rank-size - Samaria and Judah
 
 ::: {.absolute top="0" left="95%"}
 ::: {.sectionhead}
@@ -586,9 +597,11 @@ format:
 
 
 
+::: {.fragment fragment-index=1}
 Regional trends highlight differences between Samaria and Judah
+:::
 
-![](img/geographical_location_large.webp){fig-align="center" width="68%"}
+![](img/geographical_location_large_new.webp){fig-align="center" width="68%"}
 
 ::: {.fragment fragment-index=1}
 ::: {.absolute top="18%" left="2%" width="1550"}
@@ -639,7 +652,7 @@ Regional trends highlight differences between Samaria and Judah
 
 ::: {.column width="50%"}
 
-- No strong centralization in IA IIa (950-780)
+- No strong centralization in IA IIa (950-780 BC)
 - Process towards a pronounced centralization already in IA IIb (780-680 BC)
 - Birth and rise of Samaria as capital (IA IIa/b) and then provincial centre (IA IIb/c)
 - Less sites in IA IIc (680-586 BC) but more primate curve
@@ -681,7 +694,7 @@ Regional trends highlight differences between Samaria and Judah
 
 ---
 
-## Reoccupations
+## Reoccupations and Settlement Continuity
 
 ::: {.absolute top="0" left="95%"}
 ::: {.sectionhead}
@@ -698,7 +711,6 @@ Regional trends highlight differences between Samaria and Judah
 
 ![Samaria](img/reoccupations_samaria.webp){fig-align="center"}
 
-
 :::
 
 ::: {.column width="50%"}
@@ -710,7 +722,7 @@ Regional trends highlight differences between Samaria and Judah
 
 ---
 
-## Reoccupations
+## Reoccupations - Spatial Distribution
 
 ::: {.absolute top="0" left="95%"}
 ::: {.sectionhead}
@@ -737,7 +749,7 @@ NB: Only sites surely dated to each IA subperiod are shown on the map
 
 ---
 
-## Reoccupations
+## Reoccupations - Spatial Distribution
 
 ::: {.absolute top="0" left="95%"}
 ::: {.sectionhead}
@@ -805,8 +817,6 @@ NB: Only sites surely dated to each IA subperiod are shown on the map
 :::
 
 :::
-
-
 
 ---
 
