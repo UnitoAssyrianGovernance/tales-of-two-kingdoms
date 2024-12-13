@@ -255,7 +255,7 @@ format:
 
 ::: {.column width="50%"}
 ::: {.fragment fragment-index=2 .fade-in-then-semi-out}
-- Devastation and underdevelopment in assyrian provinces, prosperity in the client states [e.g. @Faust.Weiss2005; @Faust2021; @Stager1996]
+- Devastation and underdevelopment in assyrian provinces, prosperity in the client states [e.g. @Faust2021; @Faust.Weiss2005; @Stager1996]
 :::
 :::
 
