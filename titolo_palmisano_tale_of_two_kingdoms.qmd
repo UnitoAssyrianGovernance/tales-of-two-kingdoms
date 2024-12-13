@@ -328,7 +328,7 @@ format:
 - [Governance policies and political strategies in the Southern Levant during the Neo-Assyrian Empire](https://www.dipstudistorici.unito.it/do/progetti.pl/Show?_id=0sk8)
 - 2 years
 - Funded by the Gerda Henkel Foundation
-- Univerisity of Turin (Departments of Historical Studies)
+- University of Turin (Departments of Historical Studies)
 - Collaboration with LMU Munich (Department of Ancient History)
 
 :::
